@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fsociety256
 - 👀 I’m interested in Data Science and blockchain
 - 🌱 I’m currently learning python and C#
-- 💞️ I’m looking to collaborate on nothing now
+- 💞️ I’m looking to collaborate on nothing right now
 - 📫 How to reach me ...
 
 <!---
